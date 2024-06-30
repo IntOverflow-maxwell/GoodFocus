@@ -10,4 +10,4 @@ Unless you have the original hardware used in the experiment, to use GoodFocus, 
 
 ## License
 
-All parts of GoodFocus (except for ./neuro/Neuro.py and quiz bowl questions collected from PACE released publicly [here](https://quizbowlpackets.com/)) is under the GNU General Public License Version 3.0.
+All parts of GoodFocus (except for ./neuro/Neuro.py and quiz bowl questions collected from PACE released publicly [here](https://quizbowlpackets.com/)) is under the Apache License, Version 2.0.
